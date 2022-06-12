@@ -19,3 +19,4 @@ int main() {
     construct c;
     c.display();
 }
+//constructor
