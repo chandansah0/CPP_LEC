@@ -21,3 +21,4 @@ class myclass1{
         myclass2 obj2(obj1);
         return 0;
     }
+//friend_class
