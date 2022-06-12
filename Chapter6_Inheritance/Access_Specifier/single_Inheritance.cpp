@@ -1,22 +1,31 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
-class Animal {
-    Public:
-    void eat() {
-        cout<<"Eating..."<<endl;
-    }
 
-};
-class Dog: public Animal
+class Animal
 {
     public:
-    void Bark(){
-        cout<<"Barking...";
+    void eat()
+    {
+    cout<<"Eating......";
     }
 };
-int main() {
-    Dog d1;
-    d1.Eat();
-    d1.Bark();
+
+class Dog : public Animal
+{
+    public:
+    void bark()
+    {
+        cout<<"Barking.......";
+    }
+};
+
+int main()
+{
+    Animal a;
+    Dog d;
+    d.eat();
+    d.bark();
+    a.eat();
+    // a.bark();
     return 0;
 }
