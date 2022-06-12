@@ -1,25 +1,19 @@
 #include <iostream>
 using namespace std;
-
-class Account
-{
+class account{
     public:
-    double salary= 100000;
+    float salary=50000;
 
 };
-class Developer: public Account
+class programmer : public account
 {
     public:
-    void bonus()
-    {
-        double bonus=10000
-    }
-
+    float bonus = 15000;
 };
-int main()
-{
-    programmer p;
-    cout<<"salary:"<<p1.salary<<endl;
-    cout<<"salary:"<<a1.salary<<endl;
-    cout<<"Bonus:"<<
+int main(){
+    programmer s1;
+    cout <<"salary is : "<<s1.salary<<endl;
+    cout << "bonus is "<<s1.bonus<<endl;
+    cout<<"total earning is: "<<s1.salary+s1.bonus<<endl;
+    return 0;
 }
