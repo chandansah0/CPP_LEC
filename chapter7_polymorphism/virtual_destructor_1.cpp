@@ -1,3 +1,4 @@
+//virtual destructor
 #include <iostream>
 using namespace std;
 
