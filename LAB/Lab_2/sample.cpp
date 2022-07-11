@@ -1,4 +1,4 @@
-//5.	WAP to create a class Sample with 2 float data members and member functions void getdata() to input the values and one friend function float mean(Sample) to calculate and return mean value.
+//5.WAP to create a class Sample with 2 float data members and member functions void getdata() to input the values and one friend function float mean(Sample) to calculate and return mean value.
 //Sample
 //value1
 //value2

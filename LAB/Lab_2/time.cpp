@@ -1,4 +1,4 @@
-//WAP to define a class Time that has 3 data members for hours, minutes and second.
+// WAP to define a class Time that has 3 data members for hours, minutes and second.
 
 #include<iostream>
 using namespace std;

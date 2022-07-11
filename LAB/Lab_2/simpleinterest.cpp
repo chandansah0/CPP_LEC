@@ -1,4 +1,4 @@
-//	1.	WAP in c++ to calculate simple interest from given principle time and rate. Set the rate to 15% as default argument when rate is not provided.
+//	1.WAP in c++ to calculate simple interest from given principle time and rate. Set the rate to 15% as default argument when rate is not provided.
 //[Hint: function prototype float interest(float principle, int time, float rate=0.15)]
 
 #include <iostream>

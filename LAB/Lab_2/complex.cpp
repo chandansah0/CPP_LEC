@@ -1,4 +1,4 @@
-//4.	WAP to add two complex numbers passing object as an argument and returning resultant complex number
+//4.WAP to add two complex numbers passing object as an argument and returning resultant complex number
 #include <iostream>
 using namespace std;
 class complex{
