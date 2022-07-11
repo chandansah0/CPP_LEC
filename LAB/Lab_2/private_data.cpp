@@ -1,4 +1,4 @@
-//6.	WAP to add 2 private data of two different classes.
+//6. WAP to add 2 private data of two different classes.
 //[hint: use friend function] 
 
 
